@@ -1,6 +1,6 @@
 import os
 
-YOUTUBE_API_KEY = "AIzaSyBpkhx_igvuIhr5saDs-owpi1ZhdH9v6bY"
+YOUTUBE_API_KEY = "AIzaSyBpkhx_igvuIhr5saDs-none"
 
 # Events to analyze
 FAMOUS_EVENTS = [
